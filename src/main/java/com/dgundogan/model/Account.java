@@ -1,4 +1,4 @@
-package com.nutmeg.model;
+package com.dgundogan.model;
 
 import java.time.LocalDate;
 

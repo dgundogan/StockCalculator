@@ -1,6 +1,6 @@
-package com.nutmeg.abstractions;
+package com.dgundogan.abstractions;
 
-import com.nutmeg.model.Holding;
+import com.dgundogan.model.Holding;
 
 import java.io.File;
 import java.time.LocalDate;

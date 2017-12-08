@@ -1,8 +1,8 @@
-package com.nutmeg.transactions;
+package com.dgundogan.transactions;
 
-import com.nutmeg.abstractions.HoldingCalculator;
-import com.nutmeg.model.Account;
-import com.nutmeg.model.Holding;
+import com.dgundogan.model.Account;
+import com.dgundogan.abstractions.HoldingCalculator;
+import com.dgundogan.model.Holding;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.nutmeg.model;
+package com.dgundogan.model;
 
 public class Holding implements java.io.Serializable{
     private String asset;

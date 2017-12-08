@@ -1,7 +1,8 @@
 package com.nutmeg.transactions;
 
-import com.nutmeg.model.Account;
-import com.nutmeg.model.Holding;
+import com.dgundogan.model.Account;
+import com.dgundogan.model.Holding;
+import com.dgundogan.transactions.HoldingCalculatorImpl;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mock;

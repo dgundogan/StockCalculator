@@ -1,4 +1,4 @@
-package com.nutmeg.model;
+package com.dgundogan.model;
 
 /**
  * Created by DG on 07/12/2017.
