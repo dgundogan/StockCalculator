@@ -1,4 +1,4 @@
-package com.nutmeg.transactions;
+package com.dgundogan.transactions;
 
 import com.dgundogan.model.Account;
 import com.dgundogan.model.Holding;
